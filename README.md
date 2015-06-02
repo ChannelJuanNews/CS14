@@ -1,2 +1,2 @@
-# CS14
-Shitty code for a shitty class
+#CS014
+Just random code for data structures :)
